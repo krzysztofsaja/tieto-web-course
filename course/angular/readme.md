@@ -1,6 +1,6 @@
 # [Tieto Web / JavaScript Training](../../readme.md)
 
-## Web Application with Angular
+## Web Application with Angular (30h)
 
 1. JavaScript Web Application Landscape
 1. The Setup and Toolchain
