@@ -35,8 +35,10 @@ We hope you will have a lot of fun learning!
 
 ### The Scope
 
- * [Basics of HTML / CSS](./course/html-css/readme.md)
- * [Basics of JavaScript / TypeScript](./course/typescript/readme.md)
- * [Single Page Application with Angular](./course/angular/readme.md)
- * [REST API with Express.js](./course/express-js/readme.md)
+Here we have four different courses that cover main topics of Web Development.
+
+ 1. [Basics of HTML / CSS](./course/html-css/readme.md)
+ 1. [Basics of JavaScript / TypeScript](./course/typescript/readme.md)
+ 1. [Single Page Application with Angular](./course/angular/readme.md)
+ 1. [REST API with Express.js](./course/express-js/readme.md)
 
