@@ -9,7 +9,7 @@ but the materials are free to use.
 Please follow the instructions carefully, to make our work easier.
 
 For any questions or remarks, or any communication related to the
-course use Slack at [tieto-web-training](https://tieto-web-training.slack.com/messages/).
+course use Slack at [tieto-web-course](https://tieto-web-course.slack.com/messages/).
 
 ### Rules of Engagement
 
