@@ -1,6 +1,6 @@
 # [Tieto Web / JavaScript Training](../../readme.md)
 
-## JavaScript (ES 2015) - (40h)
+## JavaScript (ES 2015) - (~ 12 weeks)
 
 1. The Setup and Toolchain
 1. Evolution of JavaScript - ES5, ES 2016, ES 2017, Babel, TypeScript
@@ -20,7 +20,7 @@
 1. ES 2015 new features (modules, template literals, arrow functions, Map, Set, WeakMap, descructuring, rest/spread operators, generators, etc)
 1. Best pracices, style guides, linters
 
-## TypeScript (ES 2017 with Types) - (10h)
+## TypeScript (ES 2017 with Types) - (~ 2 weeks)
 1. Why is good to use static types analysis?
 1. The Setup and toolchain
 1. ES 2017 new features (async / await, decorators, etc)
@@ -28,7 +28,7 @@
 1. Typing with external libraries 
 
 
-## Mosted used Web Browsers API Methods - (10h)
+## Mosted used Web Browsers API Methods - (~ 2 weeks)
 1. Quering DOM elements, using DOM events and setting CSS throught DOM API
 1. Setting cookies, localstorage, session storage
 1. Navigating through browser history

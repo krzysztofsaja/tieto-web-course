@@ -1,6 +1,6 @@
 # [Tieto Web / JavaScript Training](../../readme.md)
 
-## Node JS REST API with Express.JS (30h)
+## Node JS REST API with Express.JS (~ 8 weeks)
 
 1. Node.JS introduction
 2. The Setup and Express.JS architecture

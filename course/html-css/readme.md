@@ -1,15 +1,15 @@
 # [Tieto Web / JavaScript Training](../../readme.md)
 
-## Basic HTML / CSS Course ( 30h )
+## Basic HTML / CSS Course ( ~ 8 weeks )
 
-### HTML Basics ( 10 h )
+### HTML Basics ( ~ 3 weeks )
 
 1. [The Setup and Toolchain](./lesson_00_the_setup/readme.md) 
 1. Anathomy of HTML (tags, attributes, classes, ids, meta)
 1. HTML forms, tables, lists, anchors, images 
 1. HTML5 - semantic markup language, audio, video, layout using semantic tags
 
-### Styling with CSS ( 20 h )
+### Styling with CSS ( ~5 weeks )
 1. Anathomy of CSS (css selectors, pseudo elements, pseudo-classes)
 1. CSS box model and units
 1. Coloring in CSS

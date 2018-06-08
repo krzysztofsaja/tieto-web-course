@@ -37,8 +37,8 @@ We hope you will have a lot of fun learning!
 
 Below we have five different courses that cover main topics of Web Development.
 
- 1. [Basic HTML / CSS](./course/html-css/readme.md) (30h)
- 1. [Advanced HTML / CSS](./course/advanced-css/readme.md) (30h)
- 1. [JavaScript / TypeScript](./course/typescript/readme.md) (60h)
- 1. [Single Page Application with Angular](./course/angular/readme.md) (30h)
- 1. [REST API with Express.js](./course/express-js/readme.md) (30h)
+ 1. [Basic HTML / CSS](./course/html-css/readme.md) (~ 8 weeks)
+ 1. [Advanced HTML / CSS](./course/advanced-css/readme.md) (~ 8 weeks)
+ 2. [JavaScript / TypeScript](./course/typescript/readme.md) (~ 16 weeks)
+ 3. [Single Page Application with Angular](./course/angular/readme.md) (~ 8 weeks)
+ 4. [REST API with Express.js](./course/express-js/readme.md) (~ 8 weeks)
