@@ -13,23 +13,23 @@ course use Slack at [tieto-web-course](https://tieto-web-course.slack.com/messag
 
 ### Rules of Engagement
 
-1. For enrollment contact Krzysztof or ...... (using Slack, of course).
-1. The schedule:
+1. For enrollment contact ...... (using Slack, of course).
+2. The schedule:
     1. The course starts on July 1th 2018.
-    1. Each week we will provide a final version of one lesson and
+    2. Each week we will provide a final version of one lesson and
        a set of exercises. 
-    1. All future lessons are already available, but may change yet.
-    1. You have two weeks since then to create a pull request with solutions.
-1. The expectations:
+    3. All future lessons are already available, but may change yet.
+    4. You have two weeks since then to create a pull request with solutions.
+3. The expectations:
     1. We expect most of the learning to happen during review process.
-    1. The exercises were estimated to take about 6 hours per week (give us feedback).
-    1. Aim for constant effort each week, solve all the exercises.
-    1. If you can't solve all the exercises, don't give up and deliver partial solution.
-    1. Don't hesitate to ask questions. Don't take the reviews personally.
-    1. We assume you want to learn. The more you code unaided, the more you will understand.
-1. The baseline:
+    2. The exercises were estimated to take about 6 hours per week (give us feedback).
+    3. Aim for constant effort each week, solve all the exercises.
+    4. If you can't solve all the exercises, don't give up and deliver partial solution.
+    5. Don't hesitate to ask questions. Don't take the reviews personally.
+    6. We assume you want to learn. The more you code unaided, the more you will understand.
+4. The baseline:
     1. We will track your progress.
-    1. We reserve the right to stop reviewing your code, if you don't deliver.   
+    2. We reserve the right to stop reviewing your code, if you don't deliver.   
 
 We hope you will have a lot of fun learning!
 
