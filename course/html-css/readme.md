@@ -17,7 +17,11 @@
 5. Responsive images and backgrounds
 6. Datailing in CSS (shadows, fonts, transitions, animations, etc)
 7. Different browsers support
+8. Google Chrome Developer Tools
 
+
+### Final HTML/CSS project
+- Write in HTML/CSS [this website](https://blackrockdigital.github.io/startbootstrap-freelancer/)
 ---
 ### Reference materials
 - [HTML - Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
