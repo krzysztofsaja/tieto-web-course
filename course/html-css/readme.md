@@ -10,15 +10,18 @@
 3. [HTML5 - semantic markup language, audio, video, layout using semantic tags](./lesson_03_HTML5/readme.md)
 
 ### Styling with CSS ( ~5 weeks )
-1. Anathomy of CSS (css selectors, pseudo elements, pseudo-classes)
-1. CSS box model and units(./lesson_02_css_box_model_units/readme.md)
-1. Coloring in CSS
-1. Responsive layouts using Flexbox and MediaQueries
-1. Responsive images and backgrounds
-1. Datailing in CSS (shadows, fonts, transitions, animations, etc)
-1. Different browsers support
+1. [Anathomy of CSS (css selectors, pseudo elements, pseudo-classes)](./lesson_04_anatomy_of_css/readme.md)
+2. [CSS box model and units](./lesson_05_css_box_model/readme.md)
+3. [Coloring in CSS](./lesson_06_css_coloring/readme.md)
+4. Responsive layouts using Flexbox and MediaQueries
+5. Responsive images and backgrounds
+6. Datailing in CSS (shadows, fonts, transitions, animations, etc)
+7. Different browsers support
 
 ---
 ### Reference materials
 - [HTML - Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HTML - W3 Schools](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML5 Video Introduction](https://scrimba.com/g/ghtml)
+- [CSS Video Introduction](https://scrimba.com/g/gintrotocss)
+- [Chrome Developer Tools](https://www.udemy.com/devtools-2017-the-basics-of-chrome-developer-tools/)
