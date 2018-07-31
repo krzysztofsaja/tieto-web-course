@@ -2,9 +2,9 @@
 
 ## Web Application with Angular (~ 8 weeks)
 
-1. The Setup and Toolchain
-1. Angular 6 architecture (components, directives, dependency injection, services, pipes, modules, router, animations, http calls)
-1. Bootstraping an application and how to use modules.
+1. [The Setup and Toolchain](./lesson_00_setup/readme.md) 
+1. [Angular 6 architecture (components, directives, dependency injection, services, pipes, modules, router, animations, http calls)](./lesson_01_angular_architecture/readme.md)
+1. [Bootstraping an application and how to use modules.](./lesson_02_bootstraping_modules/readme.md)
 1. Components in details
 1. Advanced components methods: Hostbinding, Hostlistener, ViewChild, ViewContent, Renderer, etc
 1. Directives and pipes in details
@@ -25,3 +25,5 @@
 ### Reference materials
 - [Official Angular Docs](https://angular.io/docs)
 - [Thoughtram Blog - Advanced use cases with Angular](https://blog.thoughtram.io/categories/angular-2/)
+- [Additional (paid) Angular complete course](https://www.udemy.com/the-complete-guide-to-angular-2/)
+- 
