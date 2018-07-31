@@ -15,6 +15,7 @@ Introduction
 Interactive lessons (additional)
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
 2. [CodeCademy](https://www.codecademy.com/courses/learn-html-elements/lessons/intro-to-html/exercises/intro?course_redirect=learn-html)
+3. [HTML5 Video Introduction](https://scrimba.com/g/ghtml)
    
 Practice
 1. [W3 Schools - HTML Exercises](https://www.w3schools.com/html/exercise.asp)
