@@ -2,10 +2,10 @@
 
 ## JavaScript (ES 2015) - (~ 12 weeks)
 
-1. The Setup and Toolchain
-1. Evolution of JavaScript - ES5, ES 2016, ES 2017, Babel, TypeScript
-1. How to debug you code?
-1. Datatypes and syntax (comparisons, loops, conditionals)
+1. [The Setup and Toolchain](./lesson_01_setup/readme.md)
+1. [Evolution of JavaScript - ES5, ES 2016, ES 2017, Babel, TypeScript](./lesson_02_evolution_of_js/readme.md)
+1. [How to debug your code?](./lesson_03_debug_code/readme.md)
+1. [Datatypes and syntax (comparisons, loops, conditionals)](./lesson_04_syntax_datatypes/readme.md)
 1. Working with strings, numbers, and booleans
 1. Type conversions
 1. Arrays and its mosted used methods
@@ -36,3 +36,8 @@
 
 ---
 ### Reference materials
+- [JavaScript by Pluralsight](https://www.javascript.com/)
+- [JavaScript Tutorial - W3 Schools](https://www.w3schools.com/js/default.asp)
+- [JavaScript Guide - Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [You Dont's Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
