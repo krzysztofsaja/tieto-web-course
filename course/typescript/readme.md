@@ -36,3 +36,8 @@
 
 ---
 ### Reference materials
+- [JavaScript by Pluralsight](https://www.javascript.com/)
+- [JavaScript Tutorial - W3 Schools](https://www.w3schools.com/js/default.asp)
+- [JavaScript Guide - Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [You Dont's Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
