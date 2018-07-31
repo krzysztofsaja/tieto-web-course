@@ -2,9 +2,9 @@
 
 ## JavaScript (ES 2015) - (~ 12 weeks)
 
-1. The Setup and Toolchain
-1. Evolution of JavaScript - ES5, ES 2016, ES 2017, Babel, TypeScript
-1. How to debug you code?
+1. [The Setup and Toolchain](./lesson_01_setup/readme.md)
+1. [Evolution of JavaScript - ES5, ES 2016, ES 2017, Babel, TypeScript](./lesson_02_evolution_of_js/readme.md)
+1. [How to debug your code?](./lesson_03_debug_code/readme.md)
 1. Datatypes and syntax (comparisons, loops, conditionals)
 1. Working with strings, numbers, and booleans
 1. Type conversions
