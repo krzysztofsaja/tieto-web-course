@@ -18,4 +18,5 @@ Video:
 
 Interactive
 - [NodeSchool- Learn You Node](https://github.com/workshopper/learnyounode)
+
 Note: If you have problem running learnyounode on gitbash(windows 10), try to run it on "Node.js command prompt".
