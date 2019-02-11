@@ -15,7 +15,7 @@ course use Slack at [tieto-web-course](https://tieto-web-course.slack.com/messag
 
 1. For enrollment contact ...... (using Slack, of course).
 2. The schedule:
-    1. The course starts on July 1th 2018.
+    1. The course starts on February 18th 2019.
     2. Each week we will provide a final version of one lesson and
        a set of exercises. 
     3. All future lessons are already available, but may change yet.
