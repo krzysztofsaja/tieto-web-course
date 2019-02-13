@@ -9,8 +9,7 @@
 [Visual Studio Code](https://code.visualstudio.com/) or commercial [JetBrains Webstorm](https://www.jetbrains.com/webstorm/).
     If you are not familiar with any of them, one of the most important factor would be to have some kind of Live Preview functionality of your html / css code. It can be build in or added as a plugin (e.g. Live Server) depends on the code editor. Such functionality is nicely build in Brackets therefore we would recommend this editor as an easy and good starter point. 
 2. Install and get familiar with [Emmet](https://emmet.io/) editor plugin. Its the best way to quickly write html code that is error free. Please see also [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/).
-    
-3. Install Chrome / Chromium Web browser. It has the most advanced web developer tools.
+3. Install Chrome / Chromium Web browser. It has the most advanced [web developer tools]((https://developers.google.com/web/tools/chrome-devtools/)) and its is crucial to get familiar with it.
 4. Sometimes, when You need instant effect, You may use online HTML/CSS/JS editors like
    - [Codepen](http://codepen.io/)
    - [JS Bin](https://jsbin.com/)
