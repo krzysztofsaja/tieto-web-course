@@ -22,5 +22,5 @@ You should treat it as your HTML portfolio in which you will show your HTML skil
  (like headings, paragraphs, forms, tables, links, images, lists, video, audio, svg, etc).
 4. Make your work public at least one weak before next course meeting.
 
-Practice
+#### Additional materials
 1. [Mozilla splash page assessment](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page)
