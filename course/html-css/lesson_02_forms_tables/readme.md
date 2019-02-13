@@ -3,18 +3,31 @@
 ## HTML / CSS Course
 ### Lesson 2 - HTML forms, tables, lists, anchors, images 
 
-Introduction
-1. [W3 Schools - HTML Forms](https://www.w3schools.com/html/html_forms.asp)
-2. [Developer Mozilla - Your first HTML form](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
-3. [W3 Schools - HTML Tables](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-4. [W3 Schools - HTML Lists](https://www.w3schools.com/html/html_lists.asp)
-5. [W3 Schools - HTML Anchors/Links](https://www.w3schools.com/html/html_links.asp)
-6. [W3 Schools - HTML Images](https://www.w3schools.com/html/html_images.asp)
+Please read linked materials for this lesson.
+After finishing this task you should understand and have some practice with the following topics:
 
-Practice
+1. [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
+    - form tag
+    - input field with different [input types](https://www.w3schools.com/html/html_form_input_types.asp)
+    - select field
+    - textarea field
+    - button tag
+    - label, fieldset, legend
+    - understand form [field attributes](https://www.w3schools.com/html/html_form_attributes.asp)
+    
+2. [HTML Tables](https://www.w3schools.com/html/html_tables.asp)
+
+#### Requirements
+
+Please log in to your [FreeCodeCamp Site](https://www.freecodecamp.org/) account and finish lessons that are marked with a red square in [this picture](requirements-lesson2.png).
+Make your progress public at least one day before next course meeting.
+
+#### Additional materials
+1. [Your first HTML form](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
+2. [HTML Tables](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables)
+
+
+####Practice
 1. [Structure a table of data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Structuring_planet_data)
-2. [W3 Schools - HTML Tables exercises](https://www.w3schools.com/html/exercise.asp?filename=exercise_tables1)
-3. [W3 Schools - HTML Forms exercises](https://www.w3schools.com/html/exercise.asp?filename=exercise_forms1)
-4. [W3 Schools - HTML Lists exercises](https://www.w3schools.com/html/exercise.asp?filename=exercise_lists1)
-5. [W3 Schools - HTML Anchors/Links exercises](https://www.w3schools.com/html/exercise.asp?filename=exercise_links1)
-6. [W3 Schools - HTML Images exercises](https://www.w3schools.com/html/exercise.asp?filename=exercise_images1)
+2. [W3 Schools - HTML Forms exercises](https://www.w3schools.com/html/exercise.asp?filename=exercise_forms1)
+3. [W3 Schools - HTML Tables exercises](https://www.w3schools.com/html/exercise.asp?filename=exercise_tables1)
