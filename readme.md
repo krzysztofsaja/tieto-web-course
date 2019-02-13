@@ -13,7 +13,9 @@ course use Slack at [tieto-web-course](https://tieto-web-course.slack.com/messag
 
 ### Rules of Engagement
 
-1. For enrollment contact ...... (using Slack, of course).
+1. For enrollment contact your line manager.
+2. We have [Microsoft Teams Web Course Group](https://teams.microsoft.com/l/team/19%3ae0d191ffe15344f48e9dcd38455f16bf%40thread.skype/conversations?groupId=d8321dbd-052b-4e2f-a728-48f2c6bd8b72&tenantId=cbede638-a3d9-459f-8f4e-24ced73b4e5e)
+    for daily contact and discussions.
 2. The schedule:
     1. The course starts on February 18th 2019.
     2. Each week we will provide a final version of one lesson and

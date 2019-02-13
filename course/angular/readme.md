@@ -26,4 +26,3 @@
 - [Official Angular Docs](https://angular.io/docs)
 - [Thoughtram Blog - Advanced use cases with Angular](https://blog.thoughtram.io/categories/angular-2/)
 - [Additional (paid) Angular complete course](https://www.udemy.com/the-complete-guide-to-angular-2/)
-- 
