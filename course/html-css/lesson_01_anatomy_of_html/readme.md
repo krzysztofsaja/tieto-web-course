@@ -1,7 +1,7 @@
 # Tieto Web / JavaScript Training
 
 ## HTML / CSS Course
-### Lesson 1 - Anathomy of HTML (tags, attributes, classes, ids, meta)
+### Lesson 1 - Anatomy of HTML (tags, attributes, classes, ids, meta)
 
 Please read linked materials for this lesson.
 After finishing this task you should understand and have some practice with the following topics:
