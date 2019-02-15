@@ -5,7 +5,7 @@
 ### HTML Basics ( ~ 3 weeks )
 
 1. [Environment Setup and Project Toolchain](./lesson_00_the_setup/readme.md) 
-1. [Anathomy of HTML (tags, attributes, classes, ids, meta, website structure)](./lesson_01_anatomy_of_html/readme.md)
+1. [Anatomy of HTML (tags, attributes, classes, ids, meta, website structure)](./lesson_01_anatomy_of_html/readme.md)
 1. [HTML forms, tables, lists, anchors, images](./lesson_02_forms_tables/readme.md)
 3. [HTML5 - semantic markup language, audio, video, layout using semantic tags](./lesson_03_HTML5/readme.md)
 
