@@ -1,7 +1,7 @@
 # Tieto Web / JavaScript Training
 
 ## HTML / CSS Course
-### Lesson 2 - HTML forms, tables, lists, anchors, images 
+### Lesson 2 - HTML forms, tables
 
 Please read linked materials for this lesson.
 After finishing this task you should understand and have some practice with the following topics:
