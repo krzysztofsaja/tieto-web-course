@@ -13,7 +13,7 @@ Introduction
 7. [CSS units](https://www.w3schools.com/cssref/css_units.asp)
 8. [CSS units best practices](https://gist.github.com/basham/2175a16ab7c60ce8e001)
 9. [CSS box model](https://www.w3schools.com/css/css_boxmodel.asp) [(Developer Mozilla)](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model)
-10. [CSS Colors](https://www.w3schools.com/css/css3_colors.asp) [{CSS Color Values)](https://www.w3schools.com/cssref/css_colors_legal.asp)
+10. [CSS Colors](https://www.w3schools.com/css/css3_colors.asp) [(CSS Color Values)](https://www.w3schools.com/cssref/css_colors_legal.asp)
 
 Practice
 1. [CSS Diner - practice selectors](https://flukeout.github.io/)
@@ -28,7 +28,7 @@ Please log in to your [FreeCodeCamp Site](https://www.freecodecamp.org/) account
 Make your progress public at least one day before next course meeting.
 
 
-Additional material
+#### Additional material
 - [CSS Video Introduction](https://scrimba.com/g/gintrotocss)
 - [CSS Interactive Tutorial - CodeCademy](https://www.codecademy.com/learn/learn-css)
 - [EnjoyCSS](http://enjoycss.com/)
