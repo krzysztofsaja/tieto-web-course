@@ -10,14 +10,12 @@
 4. [HTML5 - semantic markup language, audio, video, layout using semantic tags](./lesson_03_HTML5/readme.md)
 
 ### Styling with CSS ( ~5 weeks )
-1. [Anathomy of CSS (css selectors, pseudo elements, pseudo-classes)](./lesson_04_anatomy_of_css/readme.md)
-2. [CSS box model and units](./lesson_05_css_box_model/readme.md)
-3. [Coloring in CSS](./lesson_06_css_coloring/readme.md)
-4. Responsive layouts using Flexbox and MediaQueries
-5. Responsive images and backgrounds
-6. Detailing in CSS (shadows, fonts, transitions, animations, etc)
-7. Different browsers support
-8. Google Chrome Developer Tools
+1. [Basic CSS](lesson_04_basic_css/readme.md)
+2. [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/css/)
+3. Responsive layouts using Flexbox and MediaQueries
+4. Responsive tables using CSS Grid
+5. Detailing in CSS (shadows, fonts, transitions, animations, etc)
+6. Different browsers support
 
 
 ### Final HTML/CSS project
