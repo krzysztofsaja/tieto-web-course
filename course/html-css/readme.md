@@ -18,6 +18,14 @@
 ### Final HTML/CSS project
 Choose and write in HTML/CSS a website:
 - [Freelancer](https://blackrockdigital.github.io/startbootstrap-freelancer/)
+- [Creative](https://startbootstrap.com/previews/creative/)
+- [Agency](https://startbootstrap.com/previews/agency/)
+- [Wonder](https://blackrockdigital.github.io/startbootstrap-one-page-wonder/)
+- [Stylish Porfolio](https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/)
+- [GrayScale](https://blackrockdigital.github.io/startbootstrap-grayscale/)
+- [Landing page](https://blackrockdigital.github.io/startbootstrap-landing-page/)
+- [Focus Theme](https://themes.11bits.es/focus/)
+
 ---
 ### Reference materials
 - [HTML - Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
