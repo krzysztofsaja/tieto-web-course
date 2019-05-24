@@ -14,9 +14,7 @@
 2. [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/css/)
 3. [Responsive layouts using Flexbox](lesson_05_responsive-layout)
 4. [Media queries and RWD Best Practices](lesson_06_media_queries)
-4. Responsive tables using CSS Grid
-5. Detailing in CSS (shadows, fonts, transitions, animations, etc)
-6. Different browsers support
+4. Final project
 
 
 ### Final HTML/CSS project
