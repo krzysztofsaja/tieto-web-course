@@ -14,11 +14,10 @@
 2. [Google Chrome Developer Tools](https://developers.google.com/web/tools/chrome-devtools/css/)
 3. [Responsive layouts using Flexbox](lesson_05_responsive-layout)
 4. [Media queries and RWD Best Practices](lesson_06_media_queries)
-4. Final project
-
 
 ### Final HTML/CSS project
-- Write in HTML/CSS [this website](https://blackrockdigital.github.io/startbootstrap-freelancer/)
+Choose and write in HTML/CSS a website:
+- [Freelancer](https://blackrockdigital.github.io/startbootstrap-freelancer/)
 ---
 ### Reference materials
 - [HTML - Developer Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
